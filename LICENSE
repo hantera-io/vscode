@@ -1,0 +1,47 @@
+# Hantera Development Studio License Agreement
+
+Last updated: 2024-11-28
+
+PLEASE READ THIS LICENSE AGREEMENT ("AGREEMENT") CAREFULLY BEFORE USING THE HANTERA DEVELOPMENT STUDIO EXTENSION
+("SOFTWARE"). BY INSTALLING OR USING THE SOFTWARE, YOU AGREE TO BE BOUND BY THE TERMS OF THIS AGREEMENT.
+
+## 1. Grant of License
+Subject to the terms and conditions of this Agreement, Hantera AB ("Licensor") hereby grants you a non-exclusive,
+non-transferable, revocable license to install and use the Software solely for the purpose of developing Hantera
+components and engaging in other Hantera-related development activities.
+
+## 2. Restrictions
+You shall not:
+
+- **Redistribute:** Reproduce, distribute, sublicense, lease, rent, sell, or otherwise transfer the Software or any
+  portion thereof to any third party.
+- **Reverse Engineering:** Reverse engineer, decompile, disassemble, or attempt to derive the source code of the
+  Software, except to the extent expressly permitted by applicable law.
+- **Unauthorized Use:** Use the Software for any purpose other than Hantera-related development.
+
+## 3. Ownership
+All rights, title, and interest in and to the Software, including all intellectual property rights, are and shall remain
+the exclusive property of Licensor.
+
+## 4. Termination
+This Agreement is effective until terminated. Licensor may terminate this Agreement immediately without notice if you
+fail to comply with any term of this Agreement. Upon termination, you must cease all use of the Software and destroy all
+copies in your possession or control.
+
+## 5. Disclaimer of Warranties
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. LICENSOR DISCLAIMS ALL WARRANTIES,
+INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND
+NON-INFRINGEMENT.
+
+## 6. Limitation of Liability
+IN NO EVENT SHALL LICENSOR BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR ANY
+LOSS OF PROFITS OR REVENUE, ARISING OUT OF OR RELATED TO YOUR USE OR INABILITY TO USE THE SOFTWARE, EVEN IF LICENSOR HAS
+BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+## 7. Governing Law
+This Agreement shall be governed by and construed in accordance with the laws of [Jurisdiction], without regard to its
+conflict of law provisions.
+
+## 8. Entire Agreement
+This Agreement constitutes the entire agreement between you and Licensor regarding the Software and supersedes all prior
+or contemporaneous understandings.
